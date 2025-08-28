@@ -13,9 +13,11 @@
 #define NAME "Andrew Jacobson"
 
 int main(int argc, char **argv) {
-    // Printing stuff
+    // Printing stuff, My name/major
     printf("%s!\n", NAME);
     printf("My major is Comp. Sci.\n");
-
+    // Partner's name/major
+    printf();
+    printf();
     return 0;
 }
